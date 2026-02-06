@@ -1,0 +1,5 @@
+{
+  "name": "Logistics SLA Analyzer",
+  "description": "Advanced logistics dashboard for SLA analysis, delay detection, and operational control using multi-source data integration.",
+  "requestFramePermissions": []
+}
